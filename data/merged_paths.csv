@@ -33,6 +33,8 @@ awang-karisma.github.io,2022-08-18,,awang-karisma/awang-karisma.github.io,4,3
 awang-karisma.github.io,2022-08-18,blob/main/index.html,awang-karisma.github.io/index.html at main · awang-karisma/awang-karisma.gith...,1,1
 awang-karisma.github.io,2022-08-19,,awang-karisma/awang-karisma.github.io,4,3
 awang-karisma.github.io,2022-08-19,blob/main/index.html,awang-karisma.github.io/index.html at main · awang-karisma/awang-karisma.gith...,1,1
+awang-karisma.github.io,2022-08-20,,awang-karisma/awang-karisma.github.io,4,3
+awang-karisma.github.io,2022-08-20,blob/main/index.html,awang-karisma.github.io/index.html at main · awang-karisma/awang-karisma.gith...,1,1
 blog,2022-08-05,,GitHub - awang-karisma/blog,1,1
 blog,2022-08-05,blob/main/.nojekyll,blog/.nojekyll at main · awang-karisma/blog · GitHub,1,1
 blog,2022-08-05,blob/main/CNAME,blog/CNAME at main · awang-karisma/blog · GitHub,2,1
@@ -97,6 +99,8 @@ github-stats,2022-08-18,,awang-karisma/github-stats,3,3
 github-stats,2022-08-18,tree/main/data,github-stats/data at main · awang-karisma/github-stats,2,2
 github-stats,2022-08-19,,awang-karisma/github-stats,3,3
 github-stats,2022-08-19,tree/main/data,github-stats/data at main · awang-karisma/github-stats,2,2
+github-stats,2022-08-20,,awang-karisma/github-stats,3,3
+github-stats,2022-08-20,tree/main/data,github-stats/data at main · awang-karisma/github-stats,2,2
 miniproject-proa-golang,2022-08-05,,GitHub - awang-karisma/miniproject-proa-golang,1,1
 miniproject-proa-golang,2022-08-05,branches,Branches · awang-karisma/miniproject-proa-golang · GitHub,1,1
 miniproject-proa-golang,2022-08-06,,GitHub - awang-karisma/miniproject-proa-golang,1,1
@@ -265,6 +269,12 @@ proyek-html-tim-proa-golang,2022-08-19,issues,Issues · awang-karisma/proyek-htm
 proyek-html-tim-proa-golang,2022-08-19,labels,Labels · awang-karisma/proyek-html-tim-proa-golang,2,1
 proyek-html-tim-proa-golang,2022-08-19,milestones,Milestones - awang-karisma/proyek-html-tim-proa-golang,1,1
 proyek-html-tim-proa-golang,2022-08-19,pulls,Pull requests · awang-karisma/proyek-html-tim-proa-golang,1,1
+proyek-html-tim-proa-golang,2022-08-20,,awang-karisma/proyek-html-tim-proa-golang,4,3
+proyek-html-tim-proa-golang,2022-08-20,deployments/activity_log,Deployments · awang-karisma/proyek-html-tim-proa-golang,1,1
+proyek-html-tim-proa-golang,2022-08-20,issues,Issues · awang-karisma/proyek-html-tim-proa-golang,3,1
+proyek-html-tim-proa-golang,2022-08-20,labels,Labels · awang-karisma/proyek-html-tim-proa-golang,2,1
+proyek-html-tim-proa-golang,2022-08-20,milestones,Milestones - awang-karisma/proyek-html-tim-proa-golang,1,1
+proyek-html-tim-proa-golang,2022-08-20,pulls,Pull requests · awang-karisma/proyek-html-tim-proa-golang,1,1
 simpletask-backend,2022-08-09,,awang-karisma/simpletask-backend,5,1
 simpletask-backend,2022-08-09,blob/main/app.go,simpletask-backend/app.go at main · awang-karisma/simpletask-backend,2,1
 simpletask-backend,2022-08-09,blob/main/handlers/task.go,simpletask-backend/task.go at main · awang-karisma/simpletask-backend,2,1
@@ -369,6 +379,16 @@ simpletask-backend,2022-08-19,fork,Fork awang-karisma/simpletask-backend,1,1
 simpletask-backend,2022-08-19,tree/main/handlers,simpletask-backend/handlers at main · awang-karisma/simpletask-backend,2,1
 simpletask-backend,2022-08-19,tree/main/models,simpletask-backend/models at main · awang-karisma/simpletask-backend,2,1
 simpletask-backend,2022-08-19,tree/main/public,simpletask-backend/public at main · awang-karisma/simpletask-backend,1,1
+simpletask-backend,2022-08-20,,awang-karisma/simpletask-backend,8,3
+simpletask-backend,2022-08-20,blob/main/app.go,simpletask-backend/app.go at main · awang-karisma/simpletask-backend,3,2
+simpletask-backend,2022-08-20,blob/main/handlers/task.go,simpletask-backend/task.go at main · awang-karisma/simpletask-backend,2,1
+simpletask-backend,2022-08-20,blob/main/models/task.go,simpletask-backend/task.go at main · awang-karisma/simpletask-backend,2,1
+simpletask-backend,2022-08-20,blob/main/public/index.html,simpletask-backend/index.html at main · awang-karisma/simpletask-backend,1,1
+simpletask-backend,2022-08-20,commits,Commits · awang-karisma/simpletask-backend,1,1
+simpletask-backend,2022-08-20,fork,Fork awang-karisma/simpletask-backend,1,1
+simpletask-backend,2022-08-20,tree/main/handlers,simpletask-backend/handlers at main · awang-karisma/simpletask-backend,2,1
+simpletask-backend,2022-08-20,tree/main/models,simpletask-backend/models at main · awang-karisma/simpletask-backend,2,1
+simpletask-backend,2022-08-20,tree/main/public,simpletask-backend/public at main · awang-karisma/simpletask-backend,1,1
 simpletask-frontend,2022-08-08,,awang-karisma/simpletask-frontend,4,1
 simpletask-frontend,2022-08-08,actions,Actions · awang-karisma/simpletask-frontend,2,1
 simpletask-frontend,2022-08-08,actions/new,Actions · awang-karisma/simpletask-frontend,1,1
@@ -492,3 +512,13 @@ simpletask-frontend,2022-08-19,tree/gh-pages,awang-karisma/simpletask-frontend a
 simpletask-frontend,2022-08-19,tree/gh-pages/client,simpletask-frontend/client at gh-pages · awang-karisma/simpletask-frontend,2,1
 simpletask-frontend,2022-08-19,tree/main/.github/workflows,simpletask-frontend/.github/workflows at main · awang-karisma/simpletask-fron...,2,2
 simpletask-frontend,2022-08-19,tree/main/src/routes,simpletask-frontend/src/routes at main · awang-karisma/simpletask-frontend,2,1
+simpletask-frontend,2022-08-20,,GitHub - awang-karisma/simpletask-frontend,14,5
+simpletask-frontend,2022-08-20,actions,Actions · awang-karisma/simpletask-frontend,2,1
+simpletask-frontend,2022-08-20,actions/runs/2812181324/workflow,Create main.yml · awang-karisma/simpletask-frontend@4dc2df7,3,1
+simpletask-frontend,2022-08-20,actions/workflows/main.yml,Actions · awang-karisma/simpletask-frontend,2,1
+simpletask-frontend,2022-08-20,blob/main/.github/workflows/main.yml,simpletask-frontend/main.yml at main · awang-karisma/simpletask-frontend,2,2
+simpletask-frontend,2022-08-20,new/main,New File,3,1
+simpletask-frontend,2022-08-20,tree/gh-pages,awang-karisma/simpletask-frontend at gh-pages,4,1
+simpletask-frontend,2022-08-20,tree/gh-pages/client,simpletask-frontend/client at gh-pages · awang-karisma/simpletask-frontend,2,1
+simpletask-frontend,2022-08-20,tree/main/.github/workflows,simpletask-frontend/.github/workflows at main · awang-karisma/simpletask-fron...,2,2
+simpletask-frontend,2022-08-20,tree/main/src/routes,simpletask-frontend/src/routes at main · awang-karisma/simpletask-frontend,2,1
